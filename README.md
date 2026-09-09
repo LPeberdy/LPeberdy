@@ -10,45 +10,25 @@ I built our donor application, led the redesign of our food bank portal, and ind
 
 ## Selected work
 
-### [Continuous integration and deployment (CI/CD)](https://laurence-peberdy.com/w/reliability)
+**[Continuous integration and deployment (CI/CD)](https://laurence-peberdy.com/w/reliability)**  
+Designed and built Bankuet's CI/CD pipeline, from source checks to production release.  
+*Source and build secret scans · normal releases held until required checks pass*
 
-Designed and built Bankuet's CI/CD pipeline, from source checks to production release.
+**[Donor experience rebuild](https://laurence-peberdy.com/w/donor)**  
+Led and built a visual and technical overhaul of Bankuet's donor experience.  
+*Technical food bank setup ~45 → 10 min · donation 5 → 3 steps*
 
-**Outcomes**
+**[Research Atlas](https://laurence-peberdy.com/w/atlas)**  
+Independently researched, designed and built a visual research-navigation tool.  
+*Users valued finding papers they would not have thought to search for.*
 
-Source and build secret scans · normal releases held until required checks pass
+**[Food bank request portal](https://laurence-peberdy.com/w/portal)**  
+Led the shift from algorithmic allocations to quantities and visible prices.  
+*Weekly processing ~4h → 1h · average underspend ~7% → 0%*
 
-### [Donor experience rebuild](https://laurence-peberdy.com/w/donor)
-
-Led and built a visual and technical overhaul of Bankuet's donor experience.
-
-**Outcomes**
-
-Technical food bank setup ~45 → 10 min · donation 5 → 3 steps
-
-### [Research Atlas](https://laurence-peberdy.com/w/atlas)
-
-Independently researched, designed and built a visual research-navigation tool.
-
-**Evaluation**
-
-Users valued finding papers they would not have thought to search for.
-
-### [Food bank request portal](https://laurence-peberdy.com/w/portal)
-
-Led the shift from algorithmic allocations to quantities and visible prices.
-
-**Outcomes**
-
-Weekly processing ~4h → 1h · average underspend ~7% → 0%
-
-### [Flexible funding propositions](https://laurence-peberdy.com/w/funding)
-
-Originated and launched the General Fund and Support Bankuet propositions.
-
-**Outcomes**
-
-General Fund: flexible food bank funding · Support Bankuet: engineering capacity
+**[Flexible funding propositions](https://laurence-peberdy.com/w/funding)**  
+Originated and launched the General Fund and Support Bankuet propositions.  
+*General Fund: flexible food bank funding · Support Bankuet: engineering capacity*
 
 ## Personal Home Assistant projects
 
