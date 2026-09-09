@@ -1,28 +1,54 @@
 # Laurence Peberdy
 
-Product @ [Bankuet](https://bankuet.co.uk)
+Product Lead @ [Bankuet](https://bankuet.co.uk)
 
-Hi, I’m Laurence, I build products, systems and services end-to-end.
+I lead product at Bankuet, working across research, product direction and software development.
 
-I currently lead product at Bankuet where we're on a mission to ensure no one in the UK goes hungry.
+I built our donor application, led the redesign of our food bank portal, and independently made Research Atlas, a visual tool for navigating academic research.
 
 [Portfolio](https://laurence-peberdy.com) · [LinkedIn](https://www.linkedin.com/in/lpeberdy/) · London, UK
 
 ## Selected work
 
-### [Food-bank request portal](https://laurence-peberdy.com/w/portal)
+### [Continuous integration and deployment (CI/CD)](https://laurence-peberdy.com/w/reliability)
 
-Led product direction and delivery with an internal UX lead and an external engineering team. Replaced algorithmic allocation with exact quantities and visible prices, reducing weekly request processing from approximately four hours to one and average budget underspend from approximately 7% to 0%.
+Designed and built Bankuet's CI/CD pipeline, from source checks to production release.
 
-### [Bankuet donor platform](https://laurence-peberdy.com/w/donor)
+**Outcomes**
 
-Led and personally implemented a three-month rebuild using Next.js and TypeScript, integrating Beacon CRM through Supabase. Food-bank technical onboarding fell from approximately 45 to 10 minutes, and checkout was simplified from five steps to three.
+Source and build secret scans · normal releases held until required checks pass
+
+### [Donor experience rebuild](https://laurence-peberdy.com/w/donor)
+
+Led and built a visual and technical overhaul of Bankuet's donor experience.
+
+**Outcomes**
+
+Technical food bank setup ~45 → 10 min · donation 5 → 3 steps
 
 ### [Research Atlas](https://laurence-peberdy.com/w/atlas)
 
-Independently researched, designed and built a visual tool for exploring unfamiliar academic domains. Combined Next.js, D3, OpenAlex, Neo4j and Supabase, and evaluated retrieval quality across 30 queries. Built as my master's capstone at the London Interdisciplinary School.
+Independently researched, designed and built a visual research-navigation tool.
 
-The linked case studies describe my contribution, decisions, evidence and limitations.
+**Evaluation**
+
+Users valued finding papers they would not have thought to search for.
+
+### [Food bank request portal](https://laurence-peberdy.com/w/portal)
+
+Led the shift from algorithmic allocations to quantities and visible prices.
+
+**Outcomes**
+
+Weekly processing ~4h → 1h · average underspend ~7% → 0%
+
+### [Flexible funding propositions](https://laurence-peberdy.com/w/funding)
+
+Originated and launched the General Fund and Support Bankuet propositions.
+
+**Outcomes**
+
+General Fund: flexible food bank funding · Support Bankuet: engineering capacity
 
 ## Personal Home Assistant projects
 
