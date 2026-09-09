@@ -1,8 +1,10 @@
 # Laurence Peberdy
 
-**Product Lead at Bankuet, combining user research, product direction and hands-on software delivery.**
+Product @ [Bankuet](https://bankuet.co.uk)
 
-I work on donor, food-bank and fundraising products, turning operational problems into useful software. My work spans discovery and prioritisation, collaboration with designers and engineers, and building production applications myself.
+Hi, I’m Laurence, I build products, systems and services end-to-end.
+
+I currently lead product at Bankuet where we're on a mission to ensure no one in the UK goes hungry.
 
 [Portfolio](https://laurence-peberdy.com) · [LinkedIn](https://www.linkedin.com/in/lpeberdy/) · London, UK
 
@@ -22,13 +24,12 @@ Independently researched, designed and built a visual tool for exploring unfamil
 
 The linked case studies describe my contribution, decisions, evidence and limitations.
 
-## Public projects
+## Personal Home Assistant projects
 
-I also explore connected devices, ambient interfaces and generative art:
+These are projects for my own Home Assistant setup. The repositories are public because that makes the add-ons easy to install and update in Home Assistant.
 
-- [Matrix Studio](https://github.com/LPeberdy/matrix-studio) — a wireless generative-art platform for an LED matrix.
-- [E-ink Context Broker](https://github.com/LPeberdy/eink-context-broker) — a Home Assistant and Raspberry Pi e-ink dashboard.
-- [Argon ONE OLED](https://github.com/LPeberdy/argon-one-v5-oled-ha) — a modified Home Assistant display add-on with a focus on limited permissions; upstream attribution is documented in the repository.
+- [E-ink Context Broker](https://github.com/LPeberdy/eink-context-broker) — my Home Assistant and Raspberry Pi e-ink dashboard.
+- [Argon ONE OLED](https://github.com/LPeberdy/argon-one-v5-oled-ha) — a display add-on adapted for my setup; upstream attribution is documented in the repository.
 
 ## Tools I work with
 
